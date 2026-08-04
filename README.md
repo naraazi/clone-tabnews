@@ -1,2 +1,1 @@
-# clone-tabnews
-Implementação do https://www.tabnews.com.br/ para https://curso.dev/
+The repository is primarily in Portuguese because the course is intended for Portuguese speakers.
